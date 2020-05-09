@@ -20,6 +20,6 @@ The CI pipeline does the following:
 - Builds an image and pushes it to the registry
 
 
-
+$
 The CD pipeline deploys the kubernetes manifests of the `taxi` app to the `stage` environment.
 
