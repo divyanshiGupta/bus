@@ -19,5 +19,5 @@ The CI pipeline does the following:
 - Validates any changes made to [deployment manifests](../deploy).
 -  Builds an image and pushes it to the registry
 
-The CD pipeline deploys the kubernetes manifests of the `taxi` app to the  `stag3` environment..
+The CD pipeline deploys the kubernetes manifests of the `taxi` app to the  `stag` environment..
 
