@@ -1,4 +1,4 @@
-# The Bus Apps
+# The Bus App
 
 # About
 
